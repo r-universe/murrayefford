@@ -1,0 +1,10 @@
+[
+  {
+    "package": "openCR",
+    "oncran": true
+  },
+  {
+    "package": "secr",
+    "oncran": true
+  }
+]
