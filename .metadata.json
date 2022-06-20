@@ -1,5 +1,9 @@
 [
   {
+    "package": "ipsecr",
+    "oncran": true
+  },
+  {
     "package": "openCR",
     "oncran": true
   },
