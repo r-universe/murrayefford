@@ -18,3 +18,8 @@
 	url = https://github.com/murrayefford/secr
 	shallow = true
 	registered = true
+[submodule "secrdesign"]
+	path = secrdesign
+	url = https://github.com/murrayefford/secrdesign
+	shallow = true
+	registered = true

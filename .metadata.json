@@ -10,5 +10,9 @@
   {
     "package": "secr",
     "oncran": true
+  },
+  {
+    "package": "secrdesign",
+    "oncran": true
   }
 ]
