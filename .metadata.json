@@ -1,18 +1,18 @@
 [
   {
-    "package": "ipsecr",
-    "oncran": true
-  },
-  {
     "package": "openCR",
     "oncran": true
   },
   {
-    "package": "secr",
+    "package": "secrdesign",
     "oncran": true
   },
   {
-    "package": "secrdesign",
+    "package": "ipsecr",
+    "oncran": true
+  },
+  {
+    "package": "secr",
     "oncran": true
   }
 ]
