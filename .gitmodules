@@ -3,23 +3,23 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "openCR"]
-	path = openCR
-	url = https://github.com/murrayefford/opencr
-	shallow = true
-	registered = true
-[submodule "secrdesign"]
-	path = secrdesign
-	url = https://github.com/murrayefford/secrdesign
-	shallow = true
-	registered = true
 [submodule "ipsecr"]
 	path = ipsecr
 	url = https://github.com/murrayefford/ipsecr
 	shallow = true
 	registered = true
+[submodule "openCR"]
+	path = openCR
+	url = https://github.com/murrayefford/opencr
+	shallow = true
+	registered = true
 [submodule "secr"]
 	path = secr
 	url = https://github.com/murrayefford/secr
+	shallow = true
+	registered = true
+[submodule "secrdesign"]
+	path = secrdesign
+	url = https://github.com/murrayefford/secrdesign
 	shallow = true
 	registered = true
