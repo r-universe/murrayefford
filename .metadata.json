@@ -14,5 +14,9 @@
   {
     "package": "secrdesign",
     "oncran": true
+  },
+  {
+    "package": "secrlinear",
+    "oncran": true
   }
 ]
