@@ -14,6 +14,9 @@
 [submodule "secr"]
 	path = secr
 	url = https://github.com/MurrayEfford/secr
+[submodule "secrRFS"]
+	path = secrRFS
+	url = https://github.com/MurrayEfford/secrRFS
 [submodule "secrdesign"]
 	path = secrdesign
 	url = https://github.com/MurrayEfford/secrdesign
