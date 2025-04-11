@@ -16,7 +16,7 @@
 	url = https://github.com/MurrayEfford/secr
 [submodule "secrdesign"]
 	path = secrdesign
-	url = https://gitlab.com/MurrayEfford/secrdesign
+	url = https://github.com/MurrayEfford/secrdesign
 [submodule "secrlinear"]
 	path = secrlinear
 	url = https://github.com/MurrayEfford/secrlinear
