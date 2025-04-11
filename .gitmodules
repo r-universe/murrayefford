@@ -1,19 +1,22 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/murrayefford/murrayefford.r-universe.dev
 	branch = HEAD
 [submodule "ipsecr"]
 	path = ipsecr
-	url = https://github.com/murrayefford/ipsecr
+	url = https://github.com/MurrayEfford/ipsecr
 [submodule "openCR"]
 	path = openCR
-	url = https://github.com/murrayefford/opencr
+	url = https://github.com/MurrayEfford/openCR
+[submodule "overdispsim"]
+	path = overdispsim
+	url = https://github.com/MurrayEfford/overdispsim
 [submodule "secr"]
 	path = secr
-	url = https://github.com/murrayefford/secr
+	url = https://github.com/MurrayEfford/secr
 [submodule "secrdesign"]
 	path = secrdesign
-	url = https://github.com/murrayefford/secrdesign
+	url = https://gitlab.com/MurrayEfford/secrdesign
 [submodule "secrlinear"]
 	path = secrlinear
-	url = https://github.com/murrayefford/secrlinear
+	url = https://github.com/MurrayEfford/secrlinear
