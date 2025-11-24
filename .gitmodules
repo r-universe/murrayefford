@@ -20,9 +20,9 @@
 [submodule "secrdesign"]
 	path = secrdesign
 	url = https://github.com/MurrayEfford/secrdesign
+[submodule "secrfunc"]
+	path = secrfunc
+	url = https://github.com/MurrayEfford/secrfunc
 [submodule "secrlinear"]
 	path = secrlinear
 	url = https://github.com/MurrayEfford/secrlinear
-[submodule "secrpoly"]
-	path = secrpoly
-	url = https://github.com/MurrayEfford/secrpoly
